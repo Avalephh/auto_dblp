@@ -105,14 +105,20 @@ def translate_title(title):
     return completion.choices[0].message.content
 
 
-def analyze_results(results, titles):
+def analyze_results(results, titles, translate=False):
     count = Counter(results)
     sorted_results = sorted(count.items(), key=lambda x: x[1], reverse=True)
     print("\n文章被选中的频次统计(从高到低)：")
     for index, freq in sorted_results:
-        title = titles[index - 1]
-        translated_title = translate_title(title)
-        print(f"热力值为：{freq} , {title} \n(翻译：{translated_title})")
+        try:
+            title = titles[index - 1]
+            if translate:
+                translated_title = translate_title(title)
+                print(f"热力值为：{freq} , {title} \n(翻译：{translated_title})")
+            else:
+                print(f"热力值为：{freq} , {title}")
+        except:
+            print("获取数据错误")
 
 
 if __name__ == "__main__":
@@ -130,5 +136,10 @@ if __name__ == "__main__":
         print("\n正在调用 OpenAI 接口并统计结果，请稍候...")
         results = concurrent_query(titles, context, num_iterations=10, max_workers=5)
 
+        user_input = input("是否需要翻译标题？(y/n): ").strip().lower()
+
+        # 根据用户输入设置翻译参数
+        translate = user_input == 'y'
+
         # 分析结果
-        analyze_results(results, titles)
+        analyze_results(results, titles, translate)
