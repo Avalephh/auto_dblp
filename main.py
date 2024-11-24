@@ -29,9 +29,13 @@ def fetch_dblp_titles(conference, year):
             info = hit.get("info", {})
             title = info.get("title", "No Title")
             venue = info.get("venue", "")
+            if isinstance(venue, list):
+                venue = ", ".join(venue)  
+            else:
+                venue = str(venue) 
             publication_year = info.get("year", "")
             
-            if str(year) == str(publication_year) and conference.lower() in venue.lower():
+            if str(year) == str(publication_year) : #todo and conference.lower() in venue.lower():
                 filtered_titles.append(title)
         filename = f"./title/{query}.json"
         with open(filename, "w", encoding="utf-8") as file:
@@ -112,7 +116,7 @@ def analyze_results(results, titles):
 
 
 if __name__ == "__main__":
-    conference = input("请输入会议名称: ")
+    conference = input("请输入会议或期刊名称: ")
     year = input("请输入年份: ")
     titles = fetch_dblp_titles(conference, year)
     
@@ -120,7 +124,7 @@ if __name__ == "__main__":
         print("未找到相关的文章标题。")
     else:
         print("\n获取到文章")
-        context = input("请输入你期望的上下文")
+        context = input("请输入你期望的上下文：")
 
         # 并发查询
         print("\n正在调用 OpenAI 接口并统计结果，请稍候...")
