@@ -108,11 +108,11 @@ def translate_title(title):
 def analyze_results(results, titles):
     count = Counter(results)
     sorted_results = sorted(count.items(), key=lambda x: x[1], reverse=True)
-    print("\n文章被选中的频次统计：")
+    print("\n文章被选中的频次统计(从高到低)：")
     for index, freq in sorted_results:
         title = titles[index - 1]
         translated_title = translate_title(title)
-        print(f"{freq} {title} \n(翻译：{translated_title})")
+        print(f"热力值为：{freq} , {title} \n(翻译：{translated_title})")
 
 
 if __name__ == "__main__":
