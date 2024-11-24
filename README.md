@@ -24,3 +24,16 @@
 
 pip install -r requirements.txt
 
+
+3. API设置：
+在你的操作系统中设置环境变量。具体方法取决于你的操作系统：
+
+Linux/Mac:
+export OPENAI_API_KEY="sk-XXX"
+export OPENAI_BASE_URL="https://XXXX"
+
+
+Windows:
+set OPENAI_API_KEY="sk-XXX"
+set OPENAI_BASE_URL"https://XXXX"
+
