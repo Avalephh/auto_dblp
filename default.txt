@@ -1,0 +1,109 @@
+文章被选中的频次统计(从高到低)：
+热力值为：9 , Crystal: A Unified Cache Storage System for Analytical Databases. 
+(翻译：《Crystal：一个统一的缓存存储系统用于分析数据库》)
+热力值为：8 , Optimizing An In-memory Database System For AI-powered On-line Decision Augmentation Using Persistent Memory. 
+(翻译：优化一种基于持久内存的内存数据库系统，以支持人工智能驱动的在线决策增强。)
+热力值为：7 , Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation. 
+(翻译：通过内存解耦实现成本有效且灵活的云数据库部署)
+热力值为：7 , TSCache: An Efficient Flash-based Caching Scheme for Time-series Data Workloads. 
+(翻译：TSCache: 一种高效的基于闪存的时间序列数据工作负载缓存方案。)
+热力值为：6 , Replicated Layout for In-Memory Database Systems. 
+(翻译：内存数据库系统的复制布局)
+热力值为：4 , Robust and Budget-Constrained Encoding Configurations for In-Memory Database Systems. 
+(翻译：内存数据库系统的强健且受预算限制的编码配置)
+热力值为：3 , Viper: An Efficient Hybrid PMem-DRAM Key-Value Store. 
+(翻译：标题“Viper: An Efficient Hybrid PMem-DRAM Key-Value Store”的中文翻译为：“Viper：一种高效的混合PMem-DRAM键值存储”。)
+热力值为：2 , Rearchitecting In-Memory Object Stores for Low Latency. 
+(翻译：重新架构内存对象存储以实现低延迟)
+热力值为：2 , Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration. 
+(翻译：间歇性人工参与模型选择：以Cerebro为例。)
+热力值为：2 , Subgraph Matching over Graph Federation. 
+(翻译：图联邦中的子图匹配)
+热力值为：1 , Analysis of Influence Contribution in Social Advertising. 
+(翻译：社会广告影响贡献分析)
+热力值为：1 , Decomposed Bounded Floats for Fast Compression and Queries. 
+(翻译：论文标题“Decomposed Bounded Floats for Fast Compression and Queries”的中文翻译为：“用于快速压缩和查询的分解有界浮点数”。)
+热力值为：1 , Adaptive Code Generation for Data-Intensive Analytics. 
+(翻译：数据密集型分析的自适应代码生成)
+热力值为：1 , Analyzing and Mitigating Data Stalls in DNN Training. 
+(翻译：分析与缓解深度神经网络训练中的数据停滞问题)
+热力值为：1 , TADOC: Text analytics directly on compression. 
+(翻译：TADOC：直接在压缩数据上进行文本分析。)
+热力值为：1 , Database Workload Characterization with Query Plan Encoders. 
+(翻译：数据库工作负载特征分析与查询计划编码器)
+热力值为：1 , Deep Transfer Learning for Multi-source Entity Linkage via Domain Adaptation. 
+(翻译：深度迁移学习在多源实体链接中的领域适应应用)
+热力值为：1 , AnyOLAP: Analytical Processing of Arbitrary Data-Intensive Applications without ETL. 
+(翻译：AnyOLAP：无需ETL的任意数据密集型应用的分析处理。)
+热力值为：1 , Assassin: an Automatic claSSificAtion system baSed on algorithm SelectIoN. 
+(翻译：《刺客：一种基于算法选择的自动分类系统》)
+热力值为：1 , Proceedings of the VLDB 2021 PhD Workshop co-located with the 47th International Conference on Very Large Databases (VLDB 2021), Copenhagen, Denmark, August 16, 2021. 
+(翻译：《2021年维尔数据库国际会议（VLDB 2021）博士生研讨会论文集，与第47届国际大型数据库会议（VLDB 2021）同期举行，地点：丹麦哥本哈根，日期：2021年8月16日》。)
+热力值为：1 , FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation. 
+(翻译：FLAT：一种快速、轻量且准确的基数估计方法。)
+热力值为：1 , Data Management in Microservices: State of the Practice, Challenges, and Research Directions. 
+(翻译：微服务中的数据管理：实践现状、挑战与研究方向。)
+热力值为：1 , Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees. 
+(翻译：通过聚合连接树的两阶段执行进行分布式数值和机器学习计算。)
+热力值为：1 , Machine Learning for Cloud Data Systems: the Promise, the Progress, and the Path Forward. 
+(翻译：云数据系统中的机器学习：承诺、进展与未来路径)
+热力值为：1 , Gossip-based visibility control for high-performance geo-distributed transactions. 
+(翻译：基于 gossip 的高性能地理分布事务可见性控制)
+热力值为：1 , Compliant Geo-distributed Data Processing in Action. 
+(翻译：《合规的地理分布式数据处理实践》)
+热力值为：1 , FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS. 
+(翻译：《FlexPushdownDB：云数据库管理系统中的混合下推和缓存技术》)
+热力值为：1 , New Query Optimization Techniques in the Spark Engine of Azure Synapse. 
+(翻译：在Azure Synapse的Spark引擎中的新查询优化技术)
+热力值为：1 , FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems. 
+(翻译：FINEdex：适用于可扩展和并发内存系统的细粒度学习索引方案)
+热力值为：1 , Proceedings of the 2nd Crowd Science Workshop: Trust, Ethics, and Excellence in Crowdsourced Data Management at Scale co-located with 47th International Conference on Very Large Data Bases (VLDB 2021), Copenhagen, Denmark, August 20, 2021. 
+(翻译：第2届众包科学研讨会论文集：大规模众包数据管理中的信任、伦理与卓越（与第47届国际大型数据库会议（VLDB 2021）同期举行），丹麦哥本哈根，2021年8月20日。)
+热力值为：1 , EPICGen: An Experimental Platform for Indoor Congestion Generation and Forecasting. 
+(翻译：EPICGen：室内拥堵生成与预测的实验平台)
+热力值为：1 , ParChain: A Framework for Parallel Hierarchical Agglomerative Clustering using Nearest-Neighbor Chain. 
+(翻译：ParChain: 一种基于最近邻链的并行层次聚合聚类框架)
+热力值为：1 , HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework. 
+(翻译：HET：通过缓存支持的分布式框架扩展大规模嵌入模型训练)
+热力值为：1 , Path Advisor: A Multi-Functional Campus Map Tool for Shortest Path. 
+(翻译：路径顾问：一个多功能校园地图工具，用于最短路径寻找。)
+热力值为：1 , ThunderRW: An In-Memory Graph Random Walk Engine. 
+(翻译：《ThunderRW：一种内存图随机游走引擎》)
+热力值为：1 , Redy: Remote Dynamic Memory Cache. 
+(翻译：Redy: 远程动态内存缓存。)
+热力值为：1 , VLDB 2021: Designing a Hybrid Conference. 
+(翻译：VLDB 2021：设计一个混合会议)
+热力值为：1 , Heterogeneous Data Management, Polystores, and Analytics for Healthcare - VLDB Workshops, Poly 2020 and DMAH 2020, Virtual Event, August 31 and September 4, 2020, Revised Selected Papers 
+(翻译：异构数据管理、多存储系统和医疗分析 - VLDB研讨会，Poly 2020和DMAH 2020，虚拟活动，2020年8月31日和9月4日，修订精选论文)
+热力值为：1 , DatAgent: The Imminent Age of Intelligent Data Assistants. 
+(翻译：论文标题“DatAgent: The Imminent Age of Intelligent Data Assistants”可以翻译为：“数据助手：智能数据助理的即将到来时代。”)
+热力值为：1 , Using VDMS to Index and Search 100M Images. 
+(翻译：使用VDMS对1亿张图像进行索引和搜索。)
+热力值为：1 , SWS: A Complexity-Optimized Solution for Spatial-Temporal Kernel Density Visualization. 
+(翻译：SWS：一种复杂性优化的时空核密度可视化解决方案)
+热力值为：1 , Answering Regular Path Queries through Exemplars. 
+(翻译：通过示例回答常规路径查询。)
+热力值为：1 , Valentine in Action: Matching Tabular Data at Scale. 
+(翻译：《情人节行动：大规模表格数据匹配》)
+热力值为：1 , Automated Feature Engineering for Algorithmic Fairness. 
+(翻译：自动化特征工程以实现算法公平性。)
+热力值为：1 , Heterogeneous Data Management, Polystores, and Analytics for Healthcare - VLDB Workshops, Poly 2021 and DMAH 2021, Virtual Event, August 20, 2021, Revised Selected Papers 
+(翻译：异构数据管理、多存储、以及医疗健康分析 - VLDB研讨会，Poly 2021和DMAH 2021，虚拟会议，2021年8月20日，修订精选论文)
+热力值为：1 , Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google. 
+(翻译：《Napa：在谷歌推动可扩展数据仓库与强大的查询性能》)
+热力值为：1 , International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures, ADMS@VLDB 2021, Copenhagen, Denmark, August 16, 2021. 
+(翻译：国际研讨会：利用现代处理器和存储架构加速分析和数据管理系统，ADMS@VLDB 2021，丹麦哥本哈根，2021年8月16日。)
+热力值为：1 , Fangorn: Adaptive Execution Framework for Heterogeneous Workloads on Shared Clusters. 
+(翻译：《Fangorn：用于共享集群异构工作负载的自适应执行框架》)
+热力值为：1 , GraphMineSuite: Enabling High-Performance and Programmable Graph Mining Algorithms with Set Algebra. 
+(翻译：《GraphMineSuite：使用集合代数实现高性能和可编程图挖掘算法》)
+热力值为：1 , Demonstration of Apperception: A Database Management System for Geospatial Video Data. 
+(翻译：感知的演示：一种地理空间视频数据的数据库管理系统。)
+热力值为：1 , Cache-efficient sweeping-based interval joins for extended Allen relation predicates. 
+(翻译：基于缓存效率的扫掠式区间连接用于扩展的艾伦关系谓词)
+热力值为：1 , VLDB Panel Summary: &quot;The Future of Data(base) Education: Is the Cow Book Dead?&quot;. 
+(翻译：《VLDB论坛总结：“数据(库)教育的未来：牛书已经过时了吗？”》)
+热力值为：1 , Lachesis: Automated Partitioning for UDF-Centric Analytics. 
+(翻译：Lachesis：面向用户定义函数（UDF）分析的自动化分区方法)
+热力值为：1 , Learned Cardinality Estimation: A Design Space Exploration and A Comparative Evaluation. 
+(翻译：学习的基数估计：设计空间探索与比较评价)
